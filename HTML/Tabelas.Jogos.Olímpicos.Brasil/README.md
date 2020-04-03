@@ -1,7 +1,7 @@
 # Tabelas de medalhas dos Jogos Olímpicos (Brasil)
 
 
-![brasil_olimpico](brasil_olimpico.jpg)
+![Brasil Olimpico](img/brasil_olimpico.jpg)
 
 
 ## Jogos Olímpicos
