@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formulário</title>
+    </head>
+    <body>
+            <h1>Formulário</h1>
+        <main>
+            <form>
+                <section>
+
+                    <h2>Informações Pessoais</h2>                 
+                    <div>
+                        <label for="nome">Nome:</label>
+                        <input type="text" name="Nome" id="nome">
+                    </div>
+                    <div>
+                        <label for="sobrenome">Sobrenome:</label>
+                        <input type="text" name="Sobrenome" id="sobrenome">
+                    </div>
+                    <div>
+                        <label for="nascimento">Nascimento:</label>
+                        <input type="date" name="Nascimento" id="nascimento">
+                    </div>
+                    <div>
+                        <fieldset>
+                            <legend>Sexo</legend>
+                            <input type="radio" id="masculino" name="sexo">
+                            <label for="masculino">Masculino</label><br/>
+                            <input type="radio" id="feminino" name="sexo">
+                            <label for="feminino">Feminino</label>
+                        </fieldset>
+                    </div>
+                    
+                    <h2>Informações da Conta</h2>           
+                    <div>
+                        <label for="email">E-mail:</label>
+                        <input type="email" name="Email" id="email">
+                    </div>
+                    <div>
+                        <label for="senha">Senha:</label>
+                        <input type="password" id="senha" name="pwd">
+                    </div>
+
+                    <h2>Informações de Contato</h2>
+                    <div>
+                        <label for="endereco">Endereço:</label>
+                        <input type="text" name="Endereço" id="endereco">
+                    </div>
+    
+                    <div>
+                        <label for="estado">Estado:</label>
+                        <select name="Estado" id="estado">
+                            <option value="AC">Acre</option>
+                            <option value="AL">Alagoas</option>
+                            <option value="AP">Amapá</option>
+                            <option value="AM">Amazonas</option>
+                            <option value="BA">Bahia</option>
+                            <option value="CE">Ceará</option>
+                            <option value="DF">Distrito Federal</option>
+                            <option value="ES">Espírito Santo</option>
+                            <option value="GO">Goiás</option>
+                            <option value="MA">Maranhão</option>
+                            <option value="MT">Mato Grosso</option>
+                            <option value="MS">Mato Grosso do Sul</option>
+                            <option value="MG">Minas Gerais</option>
+                            <option value="PA">Pará</option>
+                            <option value="PB">Paraíba</option>
+                            <option value="PR">Paraná</option>
+                            <option value="PE">Pernambuco</option>
+                            <option value="PI">Piauí</option>
+                            <option value="RJ">Rio de Janeiro</option>
+                            <option value="RN">Rio Grande do Norte</option>
+                            <option value="RS">Rio Grande do Sul</option>
+                            <option value="RO">Rondônia</option>
+                            <option value="RR">Roraima</option>
+                            <option value="SC">Santa Catarina</option>
+                            <option value="SP">São Paulo</option>
+                            <option value="SE">Sergipe</option>
+                            <option value="TO">Tocantins</option>
+                        </select>
+                    </div>
+
+                    <div>
+                        <label for="cep">CEP:</label>
+                        <input type="number" name="CEP" id="cep">
+                    </div>
+
+                    <div>  
+                        <label for="telefone">Telefone:</label>
+                        <input type="tel" name="telefone" id="telefone">
+                    </div>
+
+                    <div>
+                        <button type="reset">Limpar</button>
+                        <button type="submit">Enviar</button>
+                    </div>
+                </section>
+            </form>
+        </main>
+    </body>
+</html>
