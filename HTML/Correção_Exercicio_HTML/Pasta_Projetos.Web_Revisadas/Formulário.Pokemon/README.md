@@ -8,4 +8,4 @@ Há mais de 10 anos, crianças do mundo inteiro vêm descobrindo o mundo encanta
 
 Pokémon são criaturas de todas as formas e tamanhos que convivem com os humanos na natureza. Na grande maioria, os Pokémon não falam, exceto para proferir seus nomes. Os Pokémon são criados e comandados por seus donos (os chamados "Treinadores"). No decorrer das aventuras, os Pokémon crescem e ganham experiência, podendo até mesmo evoluir para Pokémon mais fortes. Alguns Pokémon, como Pikachu, Piplup e Charizard, possuem papéis de destaque na série de videogames, no jogo Estampas Ilustradas e nos programas de TV, mas eles são apenas algumas das quase 500 criaturas que habitam o universo dos Pokémon.
 
-Fonte: Webiste Oficial - Pokémon
+Fonte: Webiste Oficial -  [Pokémon](https://www.pokemon.com/br/guia-para-pais/)
